@@ -12,9 +12,9 @@ const Hero = () => {
             <div className=' w-10 h-[2px] mr-2 bg-red-500'></div>New Trend
           </div>
 
-          <h1 className=' text-[70px] leading-[1.1] font-light mb-4'>
+          <h1 className=' md:text-[70px] text-[50px] leading-[1.1] font-light mb-4'>
             AUTUMN SALE STYLE <br />
-            <span className='font-semibold'>UrbanTrends</span>
+            <span className='font-semibold'>WOMENS</span>
           </h1>
           <Link
             to={"/"}
