@@ -1,6 +1,6 @@
 ## UrbanTrends Front-End Website
 
-This is a front-end website for UrbanTrends, an ecommerce platform, built using Vite.js, React.js, and Tailwind CSS. The website is designed to be responsive and compatible with various screen sizes.
+This is a front-end website for UrbanTrends, an e-commerce platform, built using Vite.js, React.js, and Tailwind CSS. The website is designed to be responsive and compatible with various screen sizes.
 
 ## Technologies Used
 
@@ -32,7 +32,8 @@ By implementing these principles and technologies in the development of the PEPE
 
 ## Screenshots
 
-![Alt text](image.png)
+![image](https://github.com/realAdif/UrbanTrends/assets/90451018/58b00ff0-abbd-4df4-a914-7e37caac91bd)
+
 
 ## Authors
 
